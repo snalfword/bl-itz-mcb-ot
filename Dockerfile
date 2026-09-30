@@ -1,2 +1,2 @@
-FROM ghcr.io/oprmg/mcbot2:latest
+FROM ghcr.io/oprmg/mcbot3:latest
 ENV PORT=8080
